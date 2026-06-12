@@ -3,5 +3,5 @@ __pycach__/
 *.pyc
 .idea/
 Terminal_list.docx
-settings.py
 .env
+token1.txt
